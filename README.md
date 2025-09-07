@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my work as a Software & Data E
 
 ## Features
 
-- **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
+- **Responsive Design**: Works perfectly on desktop and mobile devices
 - **Modern UI/UX**: Clean, professional design with smooth animations
 - **Interactive Elements**: Hover effects, smooth scrolling, and dynamic navigation
 - **Accessibility**: Semantic HTML and proper contrast ratios
